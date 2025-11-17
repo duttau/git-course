@@ -1,4 +1,3 @@
 Get the user data
 
 Created a new branch
-Login and Logout
