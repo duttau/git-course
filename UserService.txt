@@ -2,4 +2,4 @@ Get the user data
 
 Created a new branch
 
-Changed somethong to verifu "Rebase"
+Changed somethong to verify "Rebase"
