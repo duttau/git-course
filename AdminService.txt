@@ -1,4 +1,4 @@
 Add and remove user
 Change the roles
-Manage the Database Connection
+Manage the MySql Database Connection
 Closing the connection
