@@ -1,3 +1,5 @@
+This is the lite-version AdminService
+
 Add and remove user
 Change the roles
 Manage the Database
